@@ -1,5 +1,5 @@
 const settings = {
-  "name": "my-app",
+  "name": "my-headless-app",
   "state": {
     "frontity": {
       "url": "https://test.frontity.org",
